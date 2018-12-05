@@ -1,2 +1,4 @@
 # leets
 solution and explanation for leetcode problems
+解答LeetCode的题目的时候,答案和值得注意的点在这里记录一下,一些题目是找了其他解题报告们,然后找到最好理解的一篇来建立思路和测试代码,通过做完的题给自己的经验来提高自己
+题号不一定按照LeetCode网站顺序
